@@ -1,3 +1,4 @@
 # Prueba
 Repositorio de prueba PGIT03
-Buenos días vamos a hacer una lista de recomedaciones de mejores peliculas de pixar para Luis
+El grupo está compuesto por César González, Valentina Barceló y Hugo Lacruz. 
+Buenos días vamos a hacer una lista de recomedaciones de cosas de cada uno para Luis.
